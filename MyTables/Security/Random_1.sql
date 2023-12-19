@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [Random]
+    WITH PASSWORD = N',aNf5cuaqRnuoi#zlE|ajLhXmsFT7_&#$!~<ziklq;unuyrx', SID = 0xCEAECD515B21564EB39CD007FBF78905, DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
+

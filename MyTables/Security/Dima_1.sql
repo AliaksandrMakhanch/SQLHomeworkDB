@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [Dima]
+    WITH PASSWORD = N'yfh`SusaaqInuVizl~|ajghimsFT7_&#$!~<klqunuys0~xn', SID = 0x35AFD3AC61BFFE4394087A4C644C347A, DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
+

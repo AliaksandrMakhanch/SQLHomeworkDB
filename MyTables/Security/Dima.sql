@@ -1,0 +1,2 @@
+﻿CREATE USER [Dima] FOR LOGIN [Dima];
+
